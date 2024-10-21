@@ -3,9 +3,12 @@ Este projeto tem como objetivo construir um modelo preditivo que calcula a proba
 
 # Estrutura do Projeto
 O projeto é organizado da seguinte maneira:
-## Instruções_Case_Datarisk.pdf: Contém as instruções e requisitos da empresa sobre o projeto, para a execução e entregas finais.
-## base_cadastral.csv: Contém dados cadastrais fixos de cada cliente.
+Instruções_Case_Datarisk.pdf: Contém as instruções e requisitos da empresa sobre o projeto, para a execução e entregas finais.
+
+base_cadastral.csv: Contém dados cadastrais fixos de cada cliente.
+
 base_info.csv: Traz informações mensais sobre a renda e o número de funcionários dos clientes.
+
 base_pagamentos_desenvolvimento.csv e base_pagamentos_teste.csv: Contêm informações sobre as transações de crédito, incluindo os prazos de vencimento e os pagamentos realizados.
 
 # Objetivo
