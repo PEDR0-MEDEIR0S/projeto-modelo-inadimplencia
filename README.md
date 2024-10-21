@@ -17,6 +17,8 @@ O desafio proposto é calcular a probabilidade de inadimplência para clientes r
 
 # Metodologia
 
+Foi utilizado o Spyder.exe para visualizar as variáveis criadas mais facilmente assim como as figuras.
+
 ## 1. Análise Exploratória dos Dados
 Inicialmente, realizei a análise exploratória das três bases de dados fornecidas para compreender a estrutura e qualidade dos dados.
 Foram identificadas e tratadas possíveis inconsistências, como dados ausentes e incoerências comuns em datasets reais.
